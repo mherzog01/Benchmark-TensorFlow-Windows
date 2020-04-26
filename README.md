@@ -1,7 +1,8 @@
 # Benchmark-TensorFlow-Windows
-Benchmark TensorFlow Windows (TensorFlow Lite)
 
-To execute, go to a command prompt and run 
+A simple benchmarks of TensorFlow lite model evaluation, focusing on the `invoke` step of the process.
+
+To execute from a command prompt, run 
 ```
 python evaluate.py
 ```
