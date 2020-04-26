@@ -2,7 +2,7 @@
 
 A simple benchmarks of TensorFlow lite model evaluation, focusing on the `invoke` step of the process.
 
-To execute from a command prompt, run 
+To execute from a command prompt, run:
 ```
 python evaluate.py
 ```
